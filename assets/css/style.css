@@ -76,6 +76,7 @@ body {
   height: 160px;
   border-radius: 50%;
   object-fit: cover;
+  object-position: center 10%;
   display: block;
   margin: 0 auto;
 }
